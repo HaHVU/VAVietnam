@@ -1,0 +1,4 @@
+D:/ThayVinh/Chatbot/Data/paper_data/Multi_intent_data/STS_data/training_data/pair_few_COT_prompting_fushion.json filter=lfs diff=lfs merge=lfs -text
+D:/ThayVinh/Chatbot/Data/paper_data/Multi_intent_data/STS_data/training_data/pair_few_COT_prompting_fushion.json filter=lfs diff=lfs merge=lfs -text
+D:/ThayVinh/Chatbot/Data/paper_data/Multi_intent_data/STS_data/training_data/pair_new_few_prompting_fushion.json filter=lfs diff=lfs merge=lfs -text
+D:/ThayVinh/Chatbot/Data/paper_data/Multi_intent_data/STS_data/training_data/pair_new_zero_COT_prompting_fushion.json filter=lfs diff=lfs merge=lfs -text
