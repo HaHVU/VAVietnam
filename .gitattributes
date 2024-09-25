@@ -8,3 +8,7 @@ D:/ThayVinh/Chatbot/Data/paper_data/Multi_intent_data/STS_data/training_data/pai
 D:/ThayVinh/Chatbot/Data/paper_data/Multi_intent_data/STS_data/training_data/pair_new_few_prompting_fushion.json filter=lfs diff=lfs merge=lfs -text
 D:/ThayVinh/Chatbot/Data/paper_data/Multi_intent_data/STS_data/training_data/pair_new_zero_COT_prompting_fushion.json filter=lfs diff=lfs merge=lfs -text
 >>>>>>> f25a93df9553c217b0a17f3d47645e33315c241a
+pair_few_COT_prompting_fushion.json filter=lfs diff=lfs merge=lfs -text
+pair_new_few_prompting_fushion.json filter=lfs diff=lfs merge=lfs -text
+pair_new_zero_COT_prompting_fushion.json filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
